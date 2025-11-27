@@ -1,17 +1,25 @@
-<?xml version='1.0' encoding='utf-8'?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0">
   <channel>
     <title>Bilibili关注UP主更新</title>
     <link>https://space.bilibili.com/1866390341/relation/follow</link>
     <description>我关注的Bilibili UP主最新视频更新</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 27 Nov 2025 18:45:30 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 20:23:36 +0800</lastBuildDate>
+    <item>
+      <title>[技术爬爬虾] 把Gemini3生成的应用，免费部署成自己的网站，别只会在AI Studio里玩了</title>
+      <link>https://www.bilibili.com/video/BV1mcSMBtEkR</link>
+      <description>UP主：技术爬爬虾
+视频标题：把Gemini3生成的应用，免费部署成自己的网站，别只会在AI Studio里玩了</description>
+      <pubDate>Thu, 27 Nov 2025 20:23:36 +0800</pubDate>
+      <guid isPermaLink="true">https://www.bilibili.com/video/BV1mcSMBtEkR</guid>
+    </item>
     <item>
       <title>[人月聊IT] IT人员从技术到管理-工程师进阶之路</title>
       <link>https://www.bilibili.com/video/BV16sUBB8EA2</link>
       <description>UP主：人月聊IT
 视频标题：IT人员从技术到管理-工程师进阶之路</description>
-      <pubDate>Thu, 27 Nov 2025 16:30:32 +0800</pubDate>
+      <pubDate>Thu, 27 Nov 2025 20:23:36 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV16sUBB8EA2</guid>
     </item>
     <item>
@@ -19,7 +27,7 @@
       <link>https://www.bilibili.com/video/BV1HwUzBNEWa</link>
       <description>UP主：AGI_Ananas
 视频标题：混元OCR部署实测VS MinerU、PaddleVL模型实测：发票、公式、表格、多语言文档、模糊杂志与手写体识别</description>
-      <pubDate>Thu, 27 Nov 2025 16:30:32 +0800</pubDate>
+      <pubDate>Thu, 27 Nov 2025 20:23:36 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1HwUzBNEWa</guid>
     </item>
     <item>
@@ -27,7 +35,7 @@
       <link>https://www.bilibili.com/video/BV1YyU6BsEKL</link>
       <description>UP主：在下小曾AIGC
 视频标题：0代码基础也能手搓应用?10分钟，教你用Kiro搭建AI私董会</description>
-      <pubDate>Sun, 24 Nov 2024 12:00:00 +0800</pubDate>
+      <pubDate>Mon, 24 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1YyU6BsEKL</guid>
     </item>
     <item>
@@ -35,7 +43,7 @@
       <link>https://www.bilibili.com/video/BV1qDUjBAE1h</link>
       <description>UP主：jygenre
 视频标题：gemini3新手指南</description>
-      <pubDate>Fri, 22 Nov 2024 12:00:00 +0800</pubDate>
+      <pubDate>Sat, 22 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1qDUjBAE1h</guid>
     </item>
     <item>
@@ -43,7 +51,7 @@
       <link>https://www.bilibili.com/video/BV1DBUsBVEki</link>
       <description>UP主：AGI_Ananas
 视频标题：知识图谱交互可视化：解读《智慧教育白皮书》，助力高校未来发展</description>
-      <pubDate>Fri, 22 Nov 2024 12:00:00 +0800</pubDate>
+      <pubDate>Sat, 22 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1DBUsBVEki</guid>
     </item>
     <item>
@@ -51,7 +59,7 @@
       <link>https://www.bilibili.com/video/BV1RbUVBDEaz</link>
       <description>UP主：AGI_Ananas
 视频标题：Google最新AI图像生成模型Nano Banana Pro深度测评</description>
-      <pubDate>Thu, 21 Nov 2024 12:00:00 +0800</pubDate>
+      <pubDate>Fri, 21 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1RbUVBDEaz</guid>
     </item>
     <item>
@@ -59,7 +67,7 @@
       <link>https://www.bilibili.com/video/BV1MJyMBmEcu</link>
       <description>UP主：Lau博士的云组会
 视频标题：打脸主流！大道至简！何恺明新作：JiT【论文精读】</description>
-      <pubDate>Thu, 21 Nov 2024 12:00:00 +0800</pubDate>
+      <pubDate>Fri, 21 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1MJyMBmEcu</guid>
     </item>
     <item>
@@ -67,7 +75,7 @@
       <link>https://www.bilibili.com/video/BV1UuyVBfEyi</link>
       <description>UP主：吕立青_JimmyLv
 视频标题：【首测】Gemini 3 Pro 真是强的一批！审美大提升！谷歌急了，但也是真的认真了！</description>
-      <pubDate>Tue, 19 Nov 2024 12:00:00 +0800</pubDate>
+      <pubDate>Wed, 19 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1UuyVBfEyi</guid>
     </item>
     <item>
@@ -75,15 +83,15 @@
       <link>https://www.bilibili.com/video/BV1tNypBWEkq</link>
       <description>UP主：技术爬爬虾
 视频标题：Gemini 3.0 API对接编程实战，是夯还是拉？</description>
-      <pubDate>Tue, 19 Nov 2024 12:00:00 +0800</pubDate>
+      <pubDate>Wed, 19 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1tNypBWEkq</guid>
     </item>
     <item>
-      <title>[吕立青_JimmyLv] 💸 AI 账单 2600 让人崩溃？省钱实战"规划者-执行者"模式，将国产编程 AI 融入 Claude Code 工作流</title>
+      <title>[吕立青_JimmyLv] 💸 AI 账单 2600 让人崩溃？省钱实战&quot;规划者-执行者&quot;模式，将国产编程 AI 融入 Claude Code 工作流</title>
       <link>https://www.bilibili.com/video/BV1VRCiBeERg</link>
       <description>UP主：吕立青_JimmyLv
-视频标题：💸 AI 账单 2600 让人崩溃？省钱实战"规划者-执行者"模式，将国产编程 AI 融入 Claude Code 工作流</description>
-      <pubDate>Sun, 17 Nov 2024 12:00:00 +0800</pubDate>
+视频标题：💸 AI 账单 2600 让人崩溃？省钱实战&quot;规划者-执行者&quot;模式，将国产编程 AI 融入 Claude Code 工作流</description>
+      <pubDate>Mon, 17 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1VRCiBeERg</guid>
     </item>
     <item>
@@ -91,7 +99,7 @@
       <link>https://www.bilibili.com/video/BV1UYChBVEcS</link>
       <description>UP主：人月聊IT
 视频标题：程序员被裁员找不到工作-及早转变思维意识</description>
-      <pubDate>Sun, 17 Nov 2024 12:00:00 +0800</pubDate>
+      <pubDate>Mon, 17 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1UYChBVEcS</guid>
     </item>
     <item>
@@ -99,7 +107,7 @@
       <link>https://www.bilibili.com/video/BV15ECQB5EJC</link>
       <description>UP主：人月聊IT
 视频标题：周末公司搬家，高层海景</description>
-      <pubDate>Sat, 16 Nov 2024 12:00:00 +0800</pubDate>
+      <pubDate>Sun, 16 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV15ECQB5EJC</guid>
     </item>
     <item>
@@ -107,7 +115,7 @@
       <link>https://www.bilibili.com/video/BV1fZCyBYEuT</link>
       <description>UP主：技术爬爬虾
 视频标题：Obsidian邪修用法，免费云同步，AI，手机端，进阶技巧</description>
-      <pubDate>Fri, 15 Nov 2024 12:00:00 +0800</pubDate>
+      <pubDate>Sat, 15 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1fZCyBYEuT</guid>
     </item>
     <item>
@@ -115,55 +123,31 @@
       <link>https://www.bilibili.com/video/BV11ECuBVECg</link>
       <description>UP主：jygenre
 视频标题：让我们用AI来解构播客</description>
-      <pubDate>Thu, 14 Nov 2024 12:00:00 +0800</pubDate>
+      <pubDate>Fri, 14 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV11ECuBVECg</guid>
     </item>
     <item>
-      <title>[Lau博士的云组会] "LoRA已死，果蝇称王"——FlyLoRA【论文精读】</title>
+      <title>[Lau博士的云组会] &quot;LoRA已死，果蝇称王&quot;——FlyLoRA【论文精读】</title>
       <link>https://www.bilibili.com/video/BV1qaCTBdETG</link>
       <description>UP主：Lau博士的云组会
-视频标题："LoRA已死，果蝇称王"——FlyLoRA【论文精读】</description>
-      <pubDate>Thu, 14 Nov 2024 12:00:00 +0800</pubDate>
+视频标题：&quot;LoRA已死，果蝇称王&quot;——FlyLoRA【论文精读】</description>
+      <pubDate>Fri, 14 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1qaCTBdETG</guid>
-    </item>
-    <item>
-      <title>[技术爬爬虾] 超越Everything！100%离线且免费的AI文件助手HyperLink</title>
-      <link>https://www.bilibili.com/video/BV164CTBFE3m</link>
-      <description>UP主：技术爬爬虾
-视频标题：超越Everything！100%离线且免费的AI文件助手HyperLink</description>
-      <pubDate>Thu, 14 Nov 2024 12:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://www.bilibili.com/video/BV164CTBFE3m</guid>
-    </item>
-    <item>
-      <title>[Lau博士的云组会] 李飞飞万字长文爆了！定义AI下一个十年！</title>
-      <link>https://www.bilibili.com/video/BV14gkyBkEm6</link>
-      <description>UP主：Lau博士的云组会
-视频标题：李飞飞万字长文爆了！定义AI下一个十年！</description>
-      <pubDate>Mon, 11 Nov 2024 12:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://www.bilibili.com/video/BV14gkyBkEm6</guid>
     </item>
     <item>
       <title>[在下小曾AIGC] 用了2天Kiro,我把Cursor订阅彻底取消了...</title>
       <link>https://www.bilibili.com/video/BV1FpkkBoEB6</link>
       <description>UP主：在下小曾AIGC
 视频标题：用了2天Kiro,我把Cursor订阅彻底取消了...</description>
-      <pubDate>Mon, 11 Nov 2024 12:00:00 +0800</pubDate>
+      <pubDate>Tue, 11 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1FpkkBoEB6</guid>
-    </item>
-    <item>
-      <title>[吕立青_JimmyLv] BibiGPT 双11 史低5折！Q3 更新汇总：全局搜索、AI 高光笔记、批量导出电子书、AI 生成图文/短视频、全局搜索、产出物中心…</title>
-      <link>https://www.bilibili.com/video/BV1mykQBaE2z</link>
-      <description>UP主：吕立青_JimmyLv
-视频标题：BibiGPT 双11 史低5折！Q3 更新汇总：全局搜索、AI 高光笔记、批量导出电子书、AI 生成图文/短视频、全局搜索、产出物中心…</description>
-      <pubDate>Sun, 10 Nov 2024 12:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://www.bilibili.com/video/BV1mykQBaE2z</guid>
     </item>
     <item>
       <title>[在下小曾AIGC] 秒杀剪映的AI字幕工作流！准确率高达99%，完全免费！</title>
       <link>https://www.bilibili.com/video/BV1oS2wBSEXS</link>
       <description>UP主：在下小曾AIGC
 视频标题：秒杀剪映的AI字幕工作流！准确率高达99%，完全免费！</description>
-      <pubDate>Wed, 06 Nov 2024 12:00:00 +0800</pubDate>
+      <pubDate>Thu, 06 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1oS2wBSEXS</guid>
     </item>
     <item>
@@ -171,7 +155,7 @@
       <link>https://www.bilibili.com/video/BV1ANsVz9EKc</link>
       <description>UP主：毛哥Mag
 视频标题：AI到底有没有记忆｜上下文窗口原理 + 高效提问技巧全解析</description>
-      <pubDate>Wed, 23 Oct 2024 12:00:00 +0800</pubDate>
+      <pubDate>Thu, 23 Oct 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1ANsVz9EKc</guid>
     </item>
     <item>
@@ -179,7 +163,7 @@
       <link>https://www.bilibili.com/video/BV1raJSzVEdX</link>
       <description>UP主：毛哥Mag
 视频标题：为啥我用AI画的图总是那么丑｜AI文生图原理+提示词写法全解析</description>
-      <pubDate>Tue, 24 Sep 2024 12:00:00 +0800</pubDate>
+      <pubDate>Wed, 24 Sep 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1raJSzVEdX</guid>
     </item>
     <item>
@@ -187,7 +171,7 @@
       <link>https://www.bilibili.com/video/BV1e3HCznEdH</link>
       <description>UP主：jygenre
 视频标题：bytebot-端到端Agent</description>
-      <pubDate>Mon, 09 Sep 2024 12:00:00 +0800</pubDate>
+      <pubDate>Tue, 09 Sep 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1e3HCznEdH</guid>
     </item>
     <item>
@@ -195,8 +179,24 @@
       <link>https://www.bilibili.com/video/BV1rrvTzcENJ</link>
       <description>UP主：毛哥Mag
 视频标题：一看就懂，到底啥是Agent智能体 ｜ 小白必看</description>
-      <pubDate>Mon, 26 Aug 2024 12:00:00 +0800</pubDate>
+      <pubDate>Tue, 26 Aug 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1rrvTzcENJ</guid>
+    </item>
+    <item>
+      <title>[Lau博士的云组会] 突破Transformer！交大首发「类人脑」大模型BriLLM【论文精读】</title>
+      <link>https://www.bilibili.com/video/BV1nNYQz2Et5</link>
+      <description>UP主：Lau博士的云组会
+视频标题：突破Transformer！交大首发「类人脑」大模型BriLLM【论文精读】</description>
+      <pubDate>Thu, 21 Aug 2025 12:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://www.bilibili.com/video/BV1nNYQz2Et5</guid>
+    </item>
+    <item>
+      <title>[吕立青_JimmyLv] AI 视频知识管理：看得快、搜得到、用得好，如何利用 BibiGPT 收集、整理、输出？</title>
+      <link>https://www.bilibili.com/video/BV1cANJzDE3S</link>
+      <description>UP主：吕立青_JimmyLv
+视频标题：AI 视频知识管理：看得快、搜得到、用得好，如何利用 BibiGPT 收集、整理、输出？</description>
+      <pubDate>Wed, 18 Jun 2025 12:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://www.bilibili.com/video/BV1cANJzDE3S</guid>
     </item>
   </channel>
 </rss>
