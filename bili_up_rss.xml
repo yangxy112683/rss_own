@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss version="2.0">
   <channel>
     <title>Bilibili关注UP主更新</title>
     <link>https://space.bilibili.com/1866390341/relation/follow</link>
     <description>我关注的Bilibili UP主最新视频更新</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 27 Nov 2025 15:11:14 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Nov 2025 15:35:52 +0800</lastBuildDate>
     <item>
       <title>[jygenre] gemini3新手指南</title>
       <link>https://www.bilibili.com/video/BV1qDUjBAE1h</link>
@@ -87,10 +87,10 @@
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1MJyMBmEcu</guid>
     </item>
     <item>
-      <title>[Lau博士的云组会] &quot;LoRA已死，果蝇称王&quot;——FlyLoRA</title>
+      <title>[Lau博士的云组会] "LoRA已死，果蝇称王"——FlyLoRA</title>
       <link>https://www.bilibili.com/video/BV1qaCTBdETG</link>
       <description>UP主：Lau博士的云组会
-视频标题：&quot;LoRA已死，果蝇称王&quot;——FlyLoRA</description>
+视频标题："LoRA已死，果蝇称王"——FlyLoRA</description>
       <pubDate>Fri, 14 Nov 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1qaCTBdETG</guid>
     </item>
