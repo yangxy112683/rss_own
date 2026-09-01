@@ -5,13 +5,21 @@
     <link>https://space.bilibili.com/1866390341/relation/follow</link>
     <description>我关注的Bilibili UP主最新视频更新</description>
     <language>zh-cn</language>
-    <lastBuildDate>Thu, 27 Aug 2026 17:30:06 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 11:50:05 +0800</lastBuildDate>
+    <item>
+      <title>[毛哥Mag] 为啥我用AI画的图总是那么丑｜AI文生图原理+提示词写法全解析</title>
+      <link>https://www.bilibili.com/video/BV1raJSzVEdX</link>
+      <description>UP主：毛哥Mag
+视频标题：为啥我用AI画的图总是那么丑｜AI文生图原理+提示词写法全解析</description>
+      <pubDate>Thu, 24 Sep 2026 12:00:00 +0800</pubDate>
+      <guid isPermaLink="true">https://www.bilibili.com/video/BV1raJSzVEdX</guid>
+    </item>
     <item>
       <title>[AGI_Ananas] DeepSeek-V3.2 深度测评：无人机 3D 任务实测，与 Claude、Gemini 的对比</title>
       <link>https://www.bilibili.com/video/BV1FTSsBbEhE</link>
       <description>UP主：AGI_Ananas
 视频标题：DeepSeek-V3.2 深度测评：无人机 3D 任务实测，与 Claude、Gemini 的对比</description>
-      <pubDate>Wed, 26 Aug 2026 18:30:06 +0800</pubDate>
+      <pubDate>Mon, 31 Aug 2026 12:50:05 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1FTSsBbEhE</guid>
     </item>
     <item>
@@ -19,7 +27,7 @@
       <link>https://www.bilibili.com/video/BV12uSHB8E3S</link>
       <description>UP主：人月聊IT
 视频标题：数据治理项目实施指南-方法-技巧和实践</description>
-      <pubDate>Wed, 26 Aug 2026 17:30:06 +0800</pubDate>
+      <pubDate>Mon, 31 Aug 2026 11:50:05 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV12uSHB8E3S</guid>
     </item>
     <item>
@@ -189,14 +197,6 @@
 视频标题：web自动化 - claude web extension</description>
       <pubDate>Wed, 15 Oct 2025 12:00:00 +0800</pubDate>
       <guid isPermaLink="true">https://www.bilibili.com/video/BV1ki4hzVEqo</guid>
-    </item>
-    <item>
-      <title>[毛哥Mag] 为啥我用AI画的图总是那么丑｜AI文生图原理+提示词写法全解析</title>
-      <link>https://www.bilibili.com/video/BV1raJSzVEdX</link>
-      <description>UP主：毛哥Mag
-视频标题：为啥我用AI画的图总是那么丑｜AI文生图原理+提示词写法全解析</description>
-      <pubDate>Wed, 24 Sep 2025 12:00:00 +0800</pubDate>
-      <guid isPermaLink="true">https://www.bilibili.com/video/BV1raJSzVEdX</guid>
     </item>
   </channel>
 </rss>
